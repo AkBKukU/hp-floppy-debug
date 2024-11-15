@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "FloppyInterface")(type "KiCad")(uri "/home/akbkuku/git/hp-probe-breakout/hp-probe-breakout/FloppyInterface.kicad_sym")(options "")(descr ""))
+  (lib (name "hp-probe")(type "KiCad")(uri "/home/akbkuku/git/hp-probe-breakout/hp-probe-breakout/hp-probe.kicad_sym")(options "")(descr ""))
+  (lib (name "MountFormFactor")(type "KiCad")(uri "${KIPRJMOD}/MountFormFactor.kicad_sym")(options "")(descr ""))
+)

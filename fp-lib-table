@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "HP_PROBE")(type "KiCad")(uri "${KIPRJMOD}/HP_PROBE.pretty")(options "")(descr ""))
+  (lib (name "MountFormFactor")(type "KiCad")(uri "${KIPRJMOD}/MountFormFactor.pretty")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "${KIPRJMOD}/Logo.pretty")(options "")(descr ""))
+)
