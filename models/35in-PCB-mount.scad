@@ -2,6 +2,7 @@ $fn=48;
 
 // WD HDD Dimmensions
 // https://support.wdc.com/images/kb/2579-771970-A03.pdf
+// Alt mount : https://pro.sony/s3/cms-static-content/operation-manual/4668278111.pdf
 A1=17.8; // Height Min
 A2=147;  // Length Max
 A3=101.6;// Width
